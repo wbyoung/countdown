@@ -720,7 +720,7 @@ catch(err) {
 if (runningTests) {
   require("countdown/tests/test-helper");
 } else {
-  require("countdown/app")["default"].create({"name":"countdown","version":"0.0.0.582c5683"});
+  require("countdown/app")["default"].create({"name":"countdown","version":"0.0.0.adc7f75f"});
 }
 
 /* jshint ignore:end */
